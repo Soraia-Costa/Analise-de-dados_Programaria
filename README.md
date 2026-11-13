@@ -2,7 +2,7 @@
 
 Olá! Seja bem-vindo(a) ao meu portfólio de projetos em Análise de Dados.
 
-Sou estudante de Engenharia da Computação na UNIVESP e Técnica em Desenvolvimento de Sistemas pela FAT. Estou em transição de carreira para a área de Dados e Tecnologia, desenvolvendo conhecimentos por meio de estudos e projetos práticos.
+Sou estudante de Engenharia da Computação na UNIVESP e cursando Técnico em Desenvolvimento de Sistemas pela FAT. Estou em transição de carreira para a área de Dados e Tecnologia, desenvolvendo conhecimentos por meio de estudos e projetos práticos.
 
 ## Objetivo
 
