@@ -15,8 +15,8 @@ Aplicar conhecimentos em programação, manipulação, tratamento e análise de 
 - **Visualização de dados:** Matplotlib
 - **Ambiente de desenvolvimento:** Google Colab e Jupyter Notebook
 - **Versionamento:** Git e GitHub
-- **`notebooks/' ou `*.ipynb`:** Notebooks com exploração, limpeza e visualização de dados.
--** `scripts/` ou `*.py`:** Códigos em Python para leitura e processamento de dados.
+- **`notebooks/` ou `*.ipynb`:** Notebooks com exploração, limpeza e visualização de dados.
+- **`scripts/` ou `*.py`:** Códigos em Python para leitura e processamento de dados.
 - **`README.md`:** Documentação geral do projeto e origem das bases utilizadas.
 
 ## Projetos
