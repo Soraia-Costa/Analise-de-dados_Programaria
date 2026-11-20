@@ -8,6 +8,14 @@ A análise utiliza dados de estudantes de uma instituição de ensino superior, 
 
 O projeto foi desenvolvido como um mini projeto prático, aplicando conceitos de análise e manipulação de dados com Python.
 
+## Fonte dos Dados
+
+Os dados utilizados neste projeto foram extraídos do **UCI Machine Learning Repository**, referentes ao conjunto **Predict Students' Dropout and Academic Success** (Dataset #697).
+
+- **Fonte principal:** [UCI Machine Learning Repository — Dataset 697](https://archive.ics.uci.edu/static/public/697/data.csv)
+- **Fonte alternativa (fallback):** Cópia pública hospedada no GitHub, utilizada apenas caso a URL oficial esteja indisponível no momento da execução.
+- **Data de extração / referência:** Novembro de 2026
+- 
 ## Objetivos
 
 - Explorar uma base de dados educacionais.
