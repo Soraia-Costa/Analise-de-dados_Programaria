@@ -104,7 +104,7 @@ Durante o desenvolvimento deste projeto, foram trabalhados conceitos importantes
 
 ## Acesso ao projeto
 
-[Visualizar notebook no GitHub][https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Projeto_Educacao/Mini_projeto_%E2%80%94_Educa%C3%A7%C3%A3o_entender_padr%C3%B5es_de_participa%C3%A7%C3%A3o_e_perman%C3%AAncia_estudantil_.ipynb)]
+[Visualizar notebook no GitHub](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Projeto_Educacao/Mini_projeto_%E2%80%94_Educa%C3%A7%C3%A3o_entender_padr%C3%B5es_de_participa%C3%A7%C3%A3o_e_perman%C3%AAncia_estudantil_.ipynb)
 
 ---
 
