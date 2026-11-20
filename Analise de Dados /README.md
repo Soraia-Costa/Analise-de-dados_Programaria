@@ -6,6 +6,9 @@ Projeto desenvolvido durante a formação em Análise de Dados da Programaria, u
 
 O trabalho aborda técnicas de análise exploratória, estatística descritiva e preparação dos dados para análises posteriores.
 
+## Fonte dos Dados
+Os dados utilizados neste projeto provêm do **Instituto Brasileiro de Geografia e Estatística (IBGE)**, referentes ao período de **2015 a 2021** *(substitua pelos anos que aparecerem na sua tabela)*, disponibilizados como material didático no curso de Análise de Dados da **PrograMaria**.
+
 ## Objetivos
 
 - Explorar e compreender a estrutura de uma base de dados.
