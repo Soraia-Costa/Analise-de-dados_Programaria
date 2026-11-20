@@ -43,4 +43,4 @@ O projeto permitiu praticar técnicas de transformação e criação de atributo
 
 ## Acesso ao projeto
 
-[Visualizar notebook no GitHub](Featuring%20engineering.ipynb)
+[Visualizar notebook no GitHub](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Featuring%20engineering/Featuring_engineering.ipynb)
