@@ -30,4 +30,4 @@ Disponibilizados como material didático no curso de Análise de Dados da **Prog
 O projeto proporcionou a prática de manipulação de dados com Python e bibliotecas utilizadas em análise de dados, além do desenvolvimento da capacidade de explorar e interpretar informações.
 
 ## Acesso ao projeto
-(https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Exemplo__consultorio_medico.ipynb)](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Exemplo__consultorio_medico.ipynb)
+(https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Consultorio_Medico/consultorio_medico.ipynb)
