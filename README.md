@@ -2,11 +2,10 @@
 
 Olá! Seja bem-vindo(a) ao meu portfólio de projetos em Análise de Dados.
 
-Sou estudante de Engenharia da Computação na UNIVESP e cursando Técnico em Desenvolvimento de Sistemas pela FAT. Estou em transição de carreira para a área de Dados e Tecnologia, desenvolvendo conhecimentos por meio de estudos e projetos práticos. Repositório dedicado aos estudos, scripts e análises desenvolvidos durante o curso de **Análise de Dados da PrograMaria**, utilizando Python (`pandas`, `matplotlib` e afins) e ambientes como o Google Colab.
+Sou estudante de Engenharia da Computação na UNIVESP e cursando Técnico em Desenvolvimento de Sistemas pela FAT. Estou em transição de carreira para a área de Dados e Tecnologia, desenvolvendo conhecimentos por meio de estudos e projetos práticos. 
 
 ## Objetivo
-
-Aplicar conhecimentos em programação, manipulação, tratamento e análise de dados para transformar informações em insights que apoiem a tomada de decisão.
+Repositório dedicado aos estudos, scripts e análises desenvolvidos durante o curso de **Análise de Dados da PrograMaria**, utilizando Python (`pandas`, `matplotlib` e afins) e ambientes como o Google Colab.
 
 ## Tecnologias e ferramentas
 
