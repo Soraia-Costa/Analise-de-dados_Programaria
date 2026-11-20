@@ -1,0 +1,30 @@
+# Análise de Dados — Consultório Médico
+
+## Sobre o projeto
+Este projeto foi desenvolvido durante a formação em Análise de Dados da Programaria, com o objetivo de praticar técnicas de tratamento, organização e análise de dados.
+
+## Objetivos
+- Realizar a limpeza e organização dos dados.
+- Identificar valores ausentes e inconsistências.
+- Aplicar análises estatísticas.
+- Identificar possíveis outliers.
+
+## Ferramentas utilizadas
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Google Colab
+
+## Etapas do projeto
+1. Importação e exploração da base de dados.
+2. Limpeza e tratamento dos dados.
+3. Análise exploratória.
+4. Identificação de outliers.
+5. Interpretação dos resultados.
+
+## Aprendizados
+O projeto proporcionou a prática de manipulação de dados com Python e bibliotecas utilizadas em análise de dados, além do desenvolvimento da capacidade de explorar e interpretar informações.
+
+## Acesso ao projeto
+https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Exemplo__consultorio_medico.ipynb
