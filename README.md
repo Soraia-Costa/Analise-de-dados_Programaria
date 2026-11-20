@@ -43,13 +43,10 @@ Este portfólio reúne projetos desenvolvidos durante minha formação e estudos
 **Contato:** [LinkedIn](https://www.linkedin.com/in/soraia-csantos)
 
 
-
-
 ## Fonte dos Dados
 
 ### 1. Base do IBGE (Material Didático da PrograMaria)
 Dados provenientes do **Instituto Brasileiro de Geografia e Estatística (IBGE)**, disponibilizados como conjunto de dados didático no curso de Análise de Dados da **PrograMaria**.
-- **Recorte temporal:** *(adicione aqui o período presente nos dados, ex.: 2015 a 2021, ou remova esta linha se não houver coluna de ano)*
 
 ### 2. Evasão e Sucesso Acadêmico — UCI (Dataset #697)
 Dados obtidos do **UCI Machine Learning Repository**, referentes ao conjunto **Predict Students' Dropout and Academic Success**.
