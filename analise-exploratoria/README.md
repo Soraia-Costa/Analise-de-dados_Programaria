@@ -38,4 +38,4 @@ Os dados utilizados neste projeto provêm do **Instituto Brasileiro de Geografia
 ## Aprendizados
 
 O projeto permitiu praticar técnicas de exploração, limpeza e análise estatística de dados, desenvolvendo conhecimentos em Python e suas principais bibliotecas para análise de dados.
-[Visualizar projeto](./analise_dados.ipynb)
+[Visualizar projeto](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/analise-exploratoria/analise_exploratoria.ipynb)
