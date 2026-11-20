@@ -3,6 +3,9 @@
 ## Sobre o projeto
 Este projeto foi desenvolvido durante a formação em Análise de Dados da Programaria, com o objetivo de praticar técnicas de tratamento, organização e análise de dados.
 
+## Fonte dos Dados
+Disponibilizados como material didático no curso de Análise de Dados da **PrograMaria**
+
 ## Objetivos
 - Realizar a limpeza e organização dos dados.
 - Identificar valores ausentes e inconsistências.
