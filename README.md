@@ -2,7 +2,7 @@
 
 Olá! Seja bem-vindo(a) ao meu portfólio de projetos em Análise de Dados.
 
-Sou estudante de Engenharia da Computação na UNIVESP e cursando Técnico em Desenvolvimento de Sistemas pela FAT. Estou em transição de carreira para a área de Dados e Tecnologia, desenvolvendo conhecimentos por meio de estudos e projetos práticos.
+Sou estudante de Engenharia da Computação na UNIVESP e cursando Técnico em Desenvolvimento de Sistemas pela FAT. Estou em transição de carreira para a área de Dados e Tecnologia, desenvolvendo conhecimentos por meio de estudos e projetos práticos. Repositório dedicado aos estudos, scripts e análises desenvolvidos durante o curso de **Análise de Dados da PrograMaria**, utilizando Python (`pandas`, `matplotlib` e afins) e ambientes como o Google Colab.
 
 ## Objetivo
 
@@ -15,6 +15,9 @@ Aplicar conhecimentos em programação, manipulação, tratamento e análise de 
 - **Visualização de dados:** Matplotlib
 - **Ambiente de desenvolvimento:** Google Colab e Jupyter Notebook
 - **Versionamento:** Git e GitHub
+- **`notebooks/' ou `*.ipynb`:** Notebooks com exploração, limpeza e visualização de dados.
+-** `scripts/` ou `*.py`:** Códigos em Python para leitura e processamento de dados.
+- **`README.md`:** Documentação geral do projeto e origem das bases utilizadas.
 
 ## Projetos
 
@@ -40,15 +43,7 @@ Este portfólio reúne projetos desenvolvidos durante minha formação e estudos
 **Contato:** [LinkedIn](https://www.linkedin.com/in/soraia-csantos)
 
 
-# Análise de Dados — PrograMaria
 
-Repositório dedicado aos estudos, scripts e análises desenvolvidos durante o curso de **Análise de Dados da PrograMaria**, utilizando Python (`pandas`, `matplotlib` e afins) e ambientes como o Google Colab.
-
-## Estrutura do Repositório
-
-- `notebooks/` ou `*.ipynb`: Notebooks com exploração, limpeza e visualização de dados.
-- `scripts/` ou `*.py`: Códigos em Python para leitura e processamento de dados.
-- `README.md`: Documentação geral do projeto e origem das bases utilizadas.
 
 ## Fonte dos Dados
 
