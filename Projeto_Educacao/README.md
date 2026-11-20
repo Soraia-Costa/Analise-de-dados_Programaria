@@ -15,7 +15,7 @@ Os dados utilizados neste projeto foram extraídos do **UCI Machine Learning Rep
 - **Fonte principal:** [UCI Machine Learning Repository — Dataset 697](https://archive.ics.uci.edu/static/public/697/data.csv)
 - **Fonte alternativa (fallback):** Cópia pública hospedada no GitHub, utilizada apenas caso a URL oficial esteja indisponível no momento da execução.
 - **Data de extração / referência:** Novembro de 2026
-- 
+  
 ## Objetivos
 
 - Explorar uma base de dados educacionais.
