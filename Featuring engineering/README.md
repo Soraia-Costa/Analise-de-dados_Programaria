@@ -8,7 +8,7 @@ O trabalho utiliza Python para criar novas variáveis, categorizar informações
 #Fonte dos Dados#
 Os dados utilizados neste projeto provêm do Instituto Brasileiro de Geografia e Estatística (IBGE), referentes ao período de 2015 a 2021, disponibilizados como material didático no curso de Análise de Dados da PrograMaria
 
-# Objetivos#
+# Objetivos
 Transformar variáveis existentes em novos atributos.
 Criar categorias a partir de informações demográficas.
 Integrar diferentes bases de dados utilizando um identificador em comum.
