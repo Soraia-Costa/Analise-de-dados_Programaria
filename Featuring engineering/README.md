@@ -39,4 +39,8 @@ Os dados utilizados neste projeto provêm do Instituto Brasileiro de Geografia e
 
 ## Aprendizados
 
-O projeto permitiu praticar técnicas de transformação e criação de
+O projeto permitiu praticar técnicas de transformação e criação de atributos com Pandas, integração de bases de dados, codificação de variáveis categóricas e análise de associação entre diferentes características.
+
+## Acesso ao projeto
+
+[Visualizar notebook no GitHub](Featuring%20engineering.ipynb)
