@@ -6,6 +6,9 @@ Projeto desenvolvido durante a formação em Análise de Dados da Programaria, c
 
 O trabalho utiliza Python para criar novas variáveis, categorizar informações, integrar diferentes bases de dados e explorar relações entre atributos.
 
+## Fonte dos Dados
+Os dados utilizados neste projeto provêm do **Instituto Brasileiro de Geografia e Estatística (IBGE)**, referentes ao período de **2015 a 2021**, disponibilizados como material didático no curso de Análise de Dados da **PrograMaria**
+
 ## Objetivos
 
 - Transformar variáveis existentes em novos atributos.
