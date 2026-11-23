@@ -1,43 +1,97 @@
-# 04 – Análise de Compras Públicas com SQL e Pandas
+# 02 – SQL | Investigação de Compras Públicas Federais
 
 ## Sobre o projeto
 
-Projeto de estudo desenvolvido durante uma atividade prática de SQL, utilizando uma base de dados de Compras Públicas Federais de 2018.
+Atividade prática de análise de dados utilizando SQL para investigar informações sobre Compras Públicas Federais, com base em registros de licitações de dezembro de 2018.
 
-O objetivo foi explorar os dados de licitações, identificar padrões e compreender como as informações podem ser consultadas, filtradas, agrupadas e relacionadas utilizando SQL.
+O desafio consistiu em identificar como os valores licitados estão distribuídos e quais estruturas públicas aparecem nos registros, utilizando consultas SQL para explorar, organizar e relacionar informações.
 
-## Tecnologias utilizadas
+## Objetivo
 
-- Python
-- SQL
-- SQLite
-- Pandas
-- Google Colab
+- Explorar uma base de dados de licitações públicas.
+- Identificar a distribuição dos registros por estado (UF).
+- Analisar valores e modalidades de licitação.
+- Investigar unidades gestoras e estruturas administrativas.
+- Relacionar informações de diferentes tabelas utilizando JOIN.
+- Interpretar os resultados para responder às perguntas da investigação.
 
-## Conteúdos praticados
+## Tecnologias e ferramentas
 
-- Consultas com SELECT e FROM.
-- Filtragem de dados com WHERE.
-- Ordenação com ORDER BY.
-- Limitação de resultados com LIMIT.
-- Funções de agregação: COUNT(), SUM() e AVG().
-- Agrupamento de dados com GROUP BY.
-- Relacionamento entre tabelas com INNER JOIN e LEFT JOIN.
-- Consultas SQL utilizando múltiplas tabelas.
-- Integração entre SQL e Pandas.
-- Criação de DataFrames para análise dos resultados.
+- **SQL:** consultas, filtros, agrupamentos e relacionamentos.
+- **SQLite:** banco de dados utilizado na atividade.
+- **Python:** conexão e manipulação do banco de dados.
+- **Google Colab:** ambiente de desenvolvimento.
+- **Pandas:** organização e análise dos resultados.
 
-## Análises realizadas
+## Base de dados
 
-- Quantidade de licitações por unidade federativa.
-- Valores totais licitados por UF.
-- Identificação das modalidades de licitação.
-- Análise de unidades gestoras.
-- Identificação dos órgãos superiores com maiores valores licitados.
-- Consulta das licitações com maiores valores registrados.
+Banco de dados `compras_publicas_2018.sqlite`, contendo 15.336 registros de licitações.
 
-## Objetivo de aprendizagem
+Principais tabelas utilizadas:
 
-Desenvolver conhecimentos em consulta e exploração de dados com SQL, compreendendo como transformar perguntas em consultas e utilizar Python e Pandas para continuar a análise.
+- `licitacoes`
+- `modalidades`
+- `unidades_gestoras`
+- `orgaos`
+- `orgaos_superiores`
 
-**Projeto desenvolvido para fins de aprendizagem e construção de portfólio na área de Dados.**
+## Desenvolvimento da atividade
+
+### Etapa 1 – Exploração dos dados
+
+Nesta etapa, foram realizadas consultas para conhecer a estrutura do banco e investigar os registros de licitações.
+
+Principais comandos SQL utilizados:
+
+- SELECT – seleção de informações.
+- WHERE – filtragem de registros.
+- ORDER BY – ordenação dos resultados.
+- COUNT – contagem de registros.
+- SUM – soma de valores.
+- GROUP BY – agrupamento de informações.
+
+Foram realizadas análises de distribuição das licitações por UF, valores licitados e modalidades de contratação.
+
+### Etapa 2 – Relacionamento e investigação
+
+Na segunda etapa, o objetivo foi aprofundar a investigação por meio do relacionamento entre tabelas.
+
+Foram utilizados comandos JOIN para conectar informações de licitações, unidades gestoras, órgãos e órgãos superiores.
+
+Também foi investigada a concentração de registros por unidade gestora, utilizando agrupamento e ordenação.
+
+Exemplo de consulta utilizada:
+
+```sql
+SELECT
+    codigo_ug,
+    COUNT(*) AS total_licitacoes
+FROM licitacoes
+GROUP BY codigo_ug
+ORDER BY total_licitacoes DESC
+LIMIT 5;
+```
+
+A consulta permite identificar as cinco unidades gestoras com maior quantidade de registros de licitações.
+
+## Principais aprendizados
+
+Durante a atividade, desenvolvi conhecimentos práticos em:
+
+- Consulta e exploração de bancos de dados relacionais.
+- Utilização de funções de agregação.
+- Agrupamento e ordenação de dados.
+- Relacionamento entre tabelas com JOIN.
+- Investigação de padrões e concentração de registros.
+- Interpretação de resultados para responder a perguntas de negócio.
+- Integração entre SQL, Python e Pandas.
+
+## Conclusão
+
+A atividade demonstrou como o SQL pode ser utilizado para investigar grandes conjuntos de dados, identificar padrões e relacionar informações de diferentes estruturas administrativas.
+
+Além da construção das consultas, o exercício reforçou a importância de interpretar os resultados com cuidado, diferenciando a quantidade de licitações dos valores registrados e evitando tratar valores licitados como valores efetivamente pagos.
+
+---
+
+**Projeto desenvolvido como atividade prática de estudos em Análise de Dados e SQL.**
