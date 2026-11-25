@@ -1,88 +1,80 @@
-# Portfólio de Análise de Dados | Soraia Costa
+# 🚀 Portfólio de Análise de Dados | Soraia Costa
 
-Olá! Seja bem-vindo(a) ao meu portfólio de projetos em Análise de Dados.
+👋 Olá! Seja bem-vindo(a) ao meu portfólio!
 
 Sou estudante de Engenharia da Computação na UNIVESP e do curso Técnico em Desenvolvimento de Sistemas pela FAT. Estou em transição de carreira para a área de Dados e Tecnologia, desenvolvendo conhecimentos por meio de estudos e projetos práticos.
 
-## Objetivo
+## 🎯 Objetivo
 
 Este repositório reúne projetos desenvolvidos durante minha formação em Análise de Dados pela Programaria e estudos independentes, com foco na aplicação prática de Python, SQL e ferramentas de análise de dados.
 
-## Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
-- **Linguagens:** Python e SQL
-- **Manipulação de dados:** Pandas e NumPy
-- **Visualização de dados:** Matplotlib
-- **Análise estatística:** SciPy
-- **Banco de dados:** SQLite
-- **Ambientes de desenvolvimento:** Google Colab e Jupyter Notebook
-- **Versionamento:** Git e GitHub
+- 🐍 **Python**
+- 🗄️ **SQL e SQLite**
+- 📊 **Pandas e NumPy**
+- 📈 **Matplotlib e SciPy**
+- 💻 **Google Colab e Jupyter Notebook**
+- 🔧 **Git e GitHub**
 
-## Projetos
+## 📂 Projetos
 
-### 1. Análise de Consultório Médico
+### 🩺 01. Análise de Consultório Médico
 
-Projeto de análise exploratória de dados de atendimentos médicos, envolvendo limpeza, tratamento de dados, análise estatística e identificação de valores discrepantes (outliers).
+Análise exploratória de dados de atendimentos médicos, envolvendo limpeza, tratamento de dados, análise estatística e identificação de valores discrepantes (outliers).
 
-[Visualizar projeto](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Consultorio_Medico)
+🔗 [Visualizar projeto](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Consultorio_Medico)
 
-### 2. Feature Engineering — Engenharia de Atributos
+### ⚙️ 02. Feature Engineering — Engenharia de Atributos
 
-Projeto com foco na criação de novas variáveis, transformação de atributos, integração de bases de dados e análise de relações entre informações profissionais e demográficas.
+Criação de novas variáveis, transformação de atributos, integração de bases de dados e análise de relações entre informações profissionais e demográficas.
 
-[Visualizar projeto](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Featuring%20engineering)
+🔗 [Visualizar projeto](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Featuring%20engineering)
 
-### 3. Análise Exploratória e Tratamento de Dados
+### 🔍 03. Análise Exploratória e Tratamento de Dados
 
-Projeto de exploração e preparação de uma base de dados, utilizando estatística descritiva, tratamento de valores ausentes, identificação de valores discrepantes e cálculo de intervalo de confiança.
+Exploração e preparação de uma base de dados, utilizando estatística descritiva, tratamento de valores ausentes, identificação de outliers e cálculo de intervalo de confiança.
 
-[Visualizar projeto](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/analise-exploratoria)
+🔗 [Visualizar projeto](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/analise-exploratoria)
 
-### 4. Projeto Educação — Análise de Dados
+### 🎓 04. Projeto Educação — Análise de Dados
 
-Projeto desenvolvido durante a formação em Análise de Dados da Programaria, com o objetivo de explorar dados relacionados à educação e identificar padrões de participação. Utiliza Python e Pandas para organizar, analisar e interpretar informações.
+Exploração de dados relacionados à educação para identificar padrões de participação, utilizando Python e Pandas.
 
-[Visualizar projeto](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Projeto_Educacao)
+🔗 [Visualizar projeto](https://github.com/Soraia-Costa/Analise-de-dados_Programaria/blob/main/Projeto_Educacao)
 
-### 5. SQL — Investigação de Compras Públicas Federais
+### 🏛️ 05. SQL — Investigação de Compras Públicas Federais
 
-Atividade prática de análise de dados utilizando SQL para investigar informações sobre Compras Públicas Federais, com base em registros de licitações de dezembro de 2018.
+Investigação de dados de licitações públicas federais, utilizando SQL para explorar 15.336 registros, analisar valores, modalidades, estados e unidades gestoras.
 
-O projeto envolveu a exploração de uma base com 15.336 registros, utilizando consultas SQL para analisar a distribuição das licitações por estado, valores, modalidades e unidades gestoras.
+**Principais ferramentas:** SQL, SQLite, Python, Pandas e Google Colab.
 
-Foram aplicados comandos como SELECT, WHERE, ORDER BY, COUNT, SUM, GROUP BY e JOIN para consultar, agrupar e relacionar informações de diferentes tabelas.
-
-**Tecnologias e ferramentas:** SQL, SQLite, Python, Pandas e Google Colab.
-
-**Principais aprendizados:**
-- Exploração de bancos de dados relacionais.
+**Aprendizados:**
 - Consultas e filtros com SQL.
-- Agrupamento e funções de agregação.
-- Relacionamento entre tabelas utilizando JOIN.
-- Investigação de padrões e interpretação de resultados.
+- Agrupamentos e funções de agregação.
+- Relacionamento entre tabelas com JOIN.
+- Exploração e interpretação de dados.
 
-[Visualizar projeto](INSERIR_LINK_DO_REPOSITORIO_SQL)
+🔗 [Visualizar projeto](INSERIR_LINK_DO_REPOSITORIO_SQL)
 
-## Aprendizado contínuo
+## 🌱 Aprendizado contínuo
 
-Este portfólio reúne projetos desenvolvidos durante minha formação e estudos independentes. Está em constante atualização, acompanhando minha evolução técnica e meu desenvolvimento na área de Dados.
+Cada projeto representa uma nova oportunidade de aprender, praticar e desenvolver habilidades.
 
-## Fontes dos dados
+Este portfólio está em constante evolução, acompanhando minha jornada de aprendizado e transição para a área de Dados e Tecnologia.
 
-### 1. IBGE — Material didático da Programaria
+## 📚 Fontes dos dados
 
-Dados provenientes do Instituto Brasileiro de Geografia e Estatística (IBGE), disponibilizados como material didático no curso de Análise de Dados da Programaria.
+- **IBGE:** material didático utilizado na formação da Programaria.
+- **UCI Machine Learning Repository:** Dataset 697 — Predict Students' Dropout and Academic Success.
+- **Compras Públicas Federais:** base de dados de licitações de 2018.
 
-### 2. UCI Machine Learning Repository — Dataset 697
+🔗 [Consultar dataset UCI](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
 
-Conjunto de dados *Predict Students' Dropout and Academic Success*, utilizado no projeto relacionado à educação.
+## 📬 Contato
 
-[Consultar dataset na UCI](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
+💼 [LinkedIn — Soraia Costa](https://www.linkedin.com/in/soraia-csantos/)
 
-### 3. Compras Públicas Federais — Base de dados de 2018
+---
 
-Base de dados utilizada em atividade prática de investigação e análise de licitações públicas federais.
-
-## Contato
-
-[LinkedIn — Soraia Costa](https://www.linkedin.com/in/soraia-csantos/)
+🚀 **Em constante aprendizado, transformando dados em conhecimento!** 💜
